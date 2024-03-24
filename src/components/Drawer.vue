@@ -12,6 +12,7 @@
 
   const {
     cart,
+
   } = inject('cart')
 
   const isCreating = ref(false);
